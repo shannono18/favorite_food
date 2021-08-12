@@ -1,0 +1,12 @@
+.header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+body {
+    background-color: burlywood;
+}
+.rolls {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
